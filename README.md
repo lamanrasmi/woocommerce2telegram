@@ -1,5 +1,3 @@
-woocommerce2telegram es un plugin de Wordpress que envia un mensaje formateado a telegram después de cada pedido, utilizando un bot propio del usuario. Pensado para restaurantes
-Introducir woo2telegram.php en /wp-content/plugins
+woocommerce2telegram is a Wordpress plugin that sends a formatted message to telegram after each order, using the user's own bot. Designed for restaurants Enter woo2telegram.php in / wp-content / plugins
 
-bot.php es un bot de telegram que recaba datos del número de pedidos a lo largo de un periodo de tiempo. Un webhook debe de ser dado de alta en el sistema de telegram con su URL.
-¡Editar los tokens y los números de usuario/canal!
+bot.php is a telegram bot that collects data on the number of orders over a period of time. A webhook must be registered in the telegram system with its URL. Edit tokens and user / channel numbers!
